@@ -155,8 +155,12 @@ article div{
 }
 
 .git-proyectos{
-    width: 100%;
-    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ver-curriculum{
     display: flex;
     justify-content: center;
     align-items: center;
